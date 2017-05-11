@@ -9,6 +9,8 @@
     三、通过3层神经网络实现字符识别。
         参考 Andrew Ng 在 coursera 上的机器学习课程[3]。
     
+    请先阅读 函数(程序)功能及文件说明.txt 
+
     参考资料链接：
     
         [1].http://www.cnblogs.com/silence-hust/p/4191821.html
