@@ -10,6 +10,7 @@
         参考 Andrew Ng 在 coursera 上的机器学习课程[3]。
     
     参考资料链接：
+    
         [1].http://www.cnblogs.com/silence-hust/p/4191821.html
         [2].http://www.cnblogs.com/subconscious/p/4047960.html
         [3].(1)https://www.coursera.org/learn/machine-learning
