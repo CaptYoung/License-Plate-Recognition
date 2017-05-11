@@ -14,4 +14,4 @@
         [1].http://www.cnblogs.com/silence-hust/p/4191821.html
         [2].http://www.cnblogs.com/subconscious/p/4047960.html
         [3].(1)https://www.coursera.org/learn/machine-learning
-            (2)https://www.coursera.org/learn/machine-learning/home/week/5 (注册登录可见)
+        [3].(2)https://www.coursera.org/learn/machine-learning/home/week/5 (注册登录可见)
