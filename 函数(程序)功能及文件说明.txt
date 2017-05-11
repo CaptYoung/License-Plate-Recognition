@@ -1,0 +1,27 @@
+函数、程序功能及文件说明：
+一、文件夹
+Training ： 神经网络训练程序
+
+二、matlab 程序：
+main.m            主程序
+LicPlateLoc.m     车牌定位子函数
+LicPlateRec.m     字符识别子函数
+LicPlateSeg.m     字符分割子函数
+adjust.m          逆透视变换函数 (参考 Dsp Tian matlab练习程序（倾斜校正，透视变换） 博客园 http://www.cnblogs.com/tiandsp/archive/2012/12/16/2820916.html)
+BoxFeature.m      求矩形特征的函数
+clean.m           清除多余连通区的函数
+findblue.m        查找蓝色区域的函数
+minBoundingBox.m  求最小外接矩形的函数 (参考 http://www.mathworks.com/matlabcentral/fileexchange/31126-2d-minimal-bounding-box/content/minBoundingBox.m)
+recognise.m       字符识别函数
+rgb2hsi.m         RGB图像转换为HSI图像的函数 (参考 xiaojidan2011.matlab RGB到HSI的彩色转换及实现 CSDN博客 http://blog.csdn.net/xiaojidan2011/article/details/7968883)
+sigmoid.m         S函数
+
+三、matlab文件
+hanzi_theta1.mat  汉字识别的神经网络参数1
+hanzi_theta2.mat  汉字识别的神经网络参数2
+theta1.mat        字母数字识别的神经网络参数1
+theta2.mat        字母数字识别的神经网络参数2
+
+四、测试图片
+TestImage1.jpg
+TestImage2.jpg
